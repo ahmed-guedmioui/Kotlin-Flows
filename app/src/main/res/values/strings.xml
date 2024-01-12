@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name" translatable="false">Kotlin Flows</string>
+
+    <string name="tip_title_1">Tip 1</string>
+    <string name="tip_desc_1">Tip desc 1</string>
+
+    <string name="tip_title_2">Tip 2</string>
+    <string name="tip_desc_2">Tip desc 2</string>
+
+    <string name="tip_title_3">Tip 3</string>
+    <string name="tip_desc_3">Tip desc 3</string>
+
+    <string name="tip_title_4">Tip 4</string>
+    <string name="tip_desc_4">Tip desc 4</string>
+
+
+    <string name="get_started_title">Med Drawing</string>
+    <string name="get_started_desc">Med drawing desc</string>
+
+
+    <string name="privacy_notice">By click start you confirm that you reviewed and accepted our Privacy Policy</string>
+
+    <string name="action_cancel">Cancel</string>
+    <string name="label">Label</string>
+    <string name="lbl_header_settings">Settings</string>
+    <string name="lbl_permission_denied">Permission Denied</string>
+    <string name="lbl_permission_denied_message">If you reject this all permission, you cannot use the application properly. \n\nPlease turn on permissions at [Setting] &gt; [Permission]</string>
+    <string name="lbl_setting">Settings</string>
+    <string name="learn_more">Privacy &amp; Policy\nHow App &amp; our partners use your data!</string>
+
+    <string name="share_app">Share App</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_choose_image_provider">Choose</string>
+    <string name="title_gallery">Gallery</string>
+
+    <string name="help1">Start the app and place the mobile on a glass or any other object as shown in the image.</string>
+    <string name="help1_1">Select any image to draw.</string>
+    <string name="help1_2">Take a tracing paper to trace &amp; draw objects.</string>
+    <string name="help1_3">Place tracing paper over the mobile Screen &amp; start tracing the object.</string>
+    <string name="help2">Select any image to draw.</string>
+    <string name="help3">Add transparency to the screen so that you can view your book on the mobile screen.</string>
+    <string name="help4">Start drawing by placing the pencil over the borders of the image. The mobile screen will guide you to draw.</string>
+    <string name="help5" />
+
+    <string name="try_again">Try Again</string>
+    <string name="error_connect_to_a_network_and_try_again">Connect to a network and try again</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="ad">Ad</string>
+    <string name="no_drawing_available">No Drawing Available</string>
+    <string name="select_drawing">Select Drawing</string>
+    <string name="next">Next</string>
+    <string name="app_guideline">App Guideline</string>
+    <string name="start">Start</string>
+    <string name="get_started">Get Started</string>
+    <string name="okay">Okay</string>
+    <string name="sketch">Sketch</string>
+    <string name="turn_your_emotions_into_art_like_a_true_artistic_pro">Turn your emotions into art like a true artistic pro.</string>
+    <string name="trace">Trace</string>
+    <string name="trace_your_drawing_discover_something_new">Trace your drawing discover something new.</string>
+    <string name="my_creation">My Creation</string>
+    <string name="your_art">Your Art</string>
+    <string name="draw_quickly_and_easily_with_apps_is_a_great_way_to_get_started_in_the_world_of_art">Draw quickly and easily with apps is a great way to get started in the world of art</string>
+    <string name="support_us_to_develop_app_better_with_5_stars">Support us to develop\napp better with 5 stars</string>
+    <string name="rate">Rate</string>
+    <string name="double_click_to_exit">Double click to exit</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="more_apps_ad">More Apps (Ad)</string>
+    <string name="explore_recommended_apps">Explore Recommended Apps</string>
+    <string name="follow_us">Follow Us</string>
+    <string name="facebook">Facebook</string>
+    <string name="tiktok">TikTok</string>
+    <string name="instagram">Instagram</string>
+    <string name="x_twitter">X (Twitter)</string>
+    <string name="how_to_use_trace">How To Use Trace</string>
+    <string name="how_to_use_sketch">How To Use Sketch</string>
+    <string name="_1">1</string>
+    <string name="how_to_trace_1">After selecting your favorite image, the trace screen will show the drawing on your phone\'s screen</string>
+    <string name="how_to_trace_2">Place a piece of paper on the screen and proceed to draw the image</string>
+    <string name="how_to_sketch_1">Put your phone on a cup so that it is parallel to the table</string>
+    <string name="how_to_sketch_2">The image form the phone will be inverted, and you can draw it form there</string>
+    <string name="_2">2</string>
+    <string name="view_all">View All</string>
+    <string name="explore_categories">Explore Categories</string>
+    <string name="watch_the_entire_ad_to_unlock">Watch the entire ad to unlock</string>
+    <string name="some_issue_with_this_image_try_another_one">Some issue with this image try another one.</string>
+    <string name="color">color</string>
+    <string name="screen_brightness">screen_brightness</string>
+    <string name="convert_bitmap">Convert Bitmap</string>
+    <string name="can_t_convert_this_image_try_with_another">Can\'t Convert this image, try with another</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="switch_camera_failed_does_your_device_have_a_front_camera">Switch Camera Failed. Does your device have a front camera?</string>
+    <string name="ad_is_not_loaded_yet">Ad is not loaded yet</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="from_camera">From Camera</string>
+    <string name="error_recording_the_video">Error recording the video</string>
+    <string name="video_saved">Video Saved</string>
+    <string name="_00_00">00:00</string>
+    <string name="advanced">Advanced</string>
+    <string name="the_drawing_is_ready">The Drawing is ready</string>
+    <string name="time_is_up">Time is up</string>
+    <string name="you_need_to_watch_an_add_to_continue_drawing">You need to watch an add to reset the timer and continue drawing.</string>
+    <string name="watch">Watch</string>
+    <string name="take_a_photo_of_the_finished_drawing_to_move_to_the_next_level">Take a photo of the finished drawing to move to the next level.</string>
+    <string name="it_s_not_finished_yet">It\'s not finished yet</string>
+    <string name="take_a_photo">Take A Photo</string>
+    <string name="great">Great!</string>
+    <string name="you_can_track_your_progress_and_upload_new_finished_sketches_in_the_my_creation_section">You can track your progress and upload new finished sketches in the \'My Creation\' section.</string>
+    <string name="take_another_photo">Take another photo</string>
+    <string name="save_and_exit">Save And Exit</string>
+    <string name="photo_saved">Photo saved</string>
+    <string name="preview">Preview</string>
+    <string name="creation_deleted">Creation deleted</string>
+    <string name="are_you_sure_you_want_to_delete_this_creation">Are you sure you want to delete this creation?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="edge">Edge</string>
+    <string name="contrast">Contrast</string>
+    <string name="noise">Noise</string>
+    <string name="sharpness">Sharpness</string>
+    <string name="apply">Apply</string>
+    <string name="applied">Applied  ✅</string>
+    <string name="do_you_want_to_apply_the_editing">Do you want to apply the editing?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error_importing_photo">Error importing photo</string>
+    <string name="saving_was_canceled">Saving was canceled</string>
+    <string name="saving_failed">Saving failed</string>
+    <string name="fast_video">Fast Video</string>
+    <string name="speeding_up_and_saving_video">Speeding up and saving video...</string>
+    <string name="share">Share</string>
+    <string name="rate_this_app_with_5_start_if_you_like_it">Rate this app with 5 start if you like it.</string>
+    <string name="update">Update</string>
+    <string name="there_is_a_new_update">There is a new update 🤩</string>
+    <string name="update_the_app_to_enjoy_the_latest_features">Update the app to enjoy the latest features.</string>
+    <string name="this_action_may_contain_ads">This action may contain ads</string>
+
+    <string name="english">English</string>
+    <string name="deutsch">Deutsch</string>
+    <string name="chinese">中文</string>
+    <string name="korean">한국어</string>
+    <string name="spanish">Español</string>
+    <string name="french">Français</string>
+    <string name="japanese">日本語</string>
+</resources>

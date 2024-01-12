@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorAccent">@color/primary</item>
+        <item name="colorControlHighlight">@color/ripple_color</item>
+        <item name="colorPrimary">@color/primary_3</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/variant_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="CameraActivityTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorAccent">@color/primary</item>
+        <item name="colorControlHighlight">@color/ripple_color</item>
+        <item name="colorPrimary">@color/primary_3</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="ImageView.Corner" parent="">
+        <item name="cornerSizeBottomLeft">200dp</item>
+        <item name="cornerSizeBottomRight">200dp</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/colorWhite</item>
+        <item name="colorControlActivated">@color/gold</item>
+    </style>
+</resources>
